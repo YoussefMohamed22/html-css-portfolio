@@ -58,7 +58,14 @@ h3{
 }
 @media screen and (max-width: 800px) {
     .mountain-img{
-        width: 100%;
+        display: none;
+    }
+    .bottom-cloud{
+        display: none;
+    }
+    .top-cloud{
+        position: relative;
+        left: 5%;
     }
 }
 .chillies-photo {
