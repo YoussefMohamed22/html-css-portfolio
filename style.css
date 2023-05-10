@@ -64,6 +64,9 @@ h3{
         display: none;
     }
     .top-cloud{
+    display: none;
+    }
+    .top-cloud{
         position: relative;
         left: 5%;
     }
