@@ -56,6 +56,11 @@ h3{
         margin: 200px auto 200px auto;
     }
 }
+@media screen and (max-width: 800px) {
+    .mountain-img{
+        width: 100%;
+    }
+}
 .chillies-photo {
     width: 25%;
     border-radius: 50%;
